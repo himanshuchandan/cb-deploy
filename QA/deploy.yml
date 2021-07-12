@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hackathon-deployment-qa
+  name: hackathon-deployment-qa-new
   labels:
     app: hackathon-qa
 spec:
